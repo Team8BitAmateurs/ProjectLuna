@@ -1,0 +1,14 @@
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\ApplicationIcon.png
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\Background.png
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\WoodCabinetEstimate.dll
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\WoodCabinetEstimate.pdb
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\WoodCabinetEstimate.xml
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\AppManifest.xaml
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\WoodCabinetEstimate.xap
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\App.g.i.vb
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.g.resources
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.dll
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.xml
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.pdb
+c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\XapCacheFile.xml
+C:\Users\Server\Documents\Visual Studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\MainPage.g.i.vb

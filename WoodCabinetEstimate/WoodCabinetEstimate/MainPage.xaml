@@ -1,0 +1,57 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="WoodCabinetEstimate.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" Name="Estimate">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="WOOD CABINET" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Estimate" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBox Height="72" HorizontalAlignment="Left" Margin="220,40,0,0" Name="txtLinearFeet" Text="" VerticalAlignment="Top" Width="159"></TextBox>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="83,59,0,0" Name="lblLinearFeet" Text="Linear Feet?" VerticalAlignment="Top" FontSize="25" />
+            <TextBlock Height="42" HorizontalAlignment="Left" Margin="156,118,0,0" Name="lblWoodType" Text="Wood Type:" VerticalAlignment="Top" FontSize="26" Width="150" />
+            <Rectangle Height="268" HorizontalAlignment="Left" Margin="83,184,0,0" Name="pnlWoodType" Stroke="Black" StrokeThickness="1" VerticalAlignment="Top" Width="296" Fill="#FF3E3E3E"></Rectangle>
+            <RadioButton Content="Pine" Height="72" HorizontalAlignment="Left" Margin="136,200,0,0" Name="radPine" VerticalAlignment="Top" />
+            <RadioButton Content="Oak" Height="72" HorizontalAlignment="Left" Margin="136,278,0,0" Name="radOak" VerticalAlignment="Top" />
+            <RadioButton Content="Cherry" Height="72" HorizontalAlignment="Left" Margin="136,356,0,0" Name="radCherry" VerticalAlignment="Top" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="83,484,0,0" Name="lblCostEstimateLabel" Text="Cost Estimate:" VerticalAlignment="Top" FontSize="25" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="276,484,0,0" Name="lblCostEstimate" Text="0000.00" VerticalAlignment="Top" FontSize="25" />
+            <Button Content="Calculate" Height="72" HorizontalAlignment="Left" Margin="54,529,0,0" Name="btnCalculate" VerticalAlignment="Top" Width="160" />
+            <Button Content="Clear" Height="72" HorizontalAlignment="Left" Margin="236,529,0,0" Name="btnClear" VerticalAlignment="Top" Width="160" />
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>
