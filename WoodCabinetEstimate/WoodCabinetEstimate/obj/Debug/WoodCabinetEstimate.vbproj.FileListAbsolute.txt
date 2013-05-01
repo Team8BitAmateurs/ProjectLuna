@@ -12,3 +12,17 @@ c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCa
 c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.pdb
 c:\users\server\documents\visual studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\XapCacheFile.xml
 C:\Users\Server\Documents\Visual Studio 2010\Projects\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\MainPage.g.i.vb
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\ApplicationIcon.png
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\Background.png
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\WoodCabinetEstimate.dll
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\WoodCabinetEstimate.pdb
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\WoodCabinetEstimate.xml
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\AppManifest.xaml
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\Bin\Debug\WoodCabinetEstimate.xap
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\App.g.i.vb
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\MainPage.g.i.vb
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.g.resources
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.dll
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.xml
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\WoodCabinetEstimate.pdb
+C:\Users\1409756\ProjectLuna\ProjectLuna\WoodCabinetEstimate\WoodCabinetEstimate\obj\Debug\XapCacheFile.xml

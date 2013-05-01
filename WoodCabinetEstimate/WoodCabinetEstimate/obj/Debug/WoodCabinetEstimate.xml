@@ -6,15 +6,7 @@ WoodCabinetEstimate
 </name>
 </assembly>
 <members>
-<member name="M:WoodCabinetEstimate.MainPage.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
-</member><member name="M:WoodCabinetEstimate.App.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
-</member><member name="P:WoodCabinetEstimate.App.RootFrame">
+<member name="P:WoodCabinetEstimate.App.RootFrame">
 	<summary>
  Provides easy access to the root frame of the Phone Application.
  </summary>
@@ -23,6 +15,14 @@ InitializeComponent
 	<summary>
  Constructor for the Application object.
  </summary>
+</member><member name="M:WoodCabinetEstimate.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:WoodCabinetEstimate.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
 </member>
 </members>
 </doc>
