@@ -1,0 +1,26 @@
+; Sierra.inf
+; Created July 2001 - Greg Seegert
+
+
+[Ident]
+ProductID=71097
+
+Version=1.0.0.0
+
+PatchVersion=1.0.4.0
+
+ShortTitle=EEARTH
+
+Title=Empire Earth
+
+UpdateAfter=9-1-2001
+
+WebPage=http://www.empireearth.com/
+
+Readme=readme.txt 
+
+StrippedDemo=0
+
+[Setup]
+InstallShield=1
+
