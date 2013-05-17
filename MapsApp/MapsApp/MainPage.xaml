@@ -1,0 +1,53 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MapsApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" xmlns:my="clr-namespace:Microsoft.Phone.Controls.Maps;assembly=Microsoft.Phone.Controls.Maps">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="EZMaps" Text="Easy Maps" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <my:Map Height="436" HorizontalAlignment="Left" Margin="0,6,0,0" Name="Map1" VerticalAlignment="Top" Width="450" CredentialsProvider="Av0XiDrkzueOMy2DLozsjZvfz-gmB5Mktf-lkIn9WJmADYKcu4Wf3NMUpTV_qkiL"/>
+            <TextBox Height="66" HorizontalAlignment="Left" Margin="9,451,0,0" Name="TextBox1" Text="Lat" VerticalAlignment="Top" Width="107" />
+            <Button Content="Search" Height="72" HorizontalAlignment="Left" Margin="201,451,0,0" Name="Button1" VerticalAlignment="Top" Width="160" />
+            <Button Content="Coordinates 1" Height="72" HorizontalAlignment="Left" Margin="12,520,0,0" Name="Button2" VerticalAlignment="Top" Width="215" />
+            <Button Content="Coordinates 2" Height="72" HorizontalAlignment="Right" Margin="0,520,19,0" Name="Button3" VerticalAlignment="Top" Width="212" />
+            <TextBox Height="66" HorizontalAlignment="Right" Margin="0,451,243,0" Name="TextBox2" Text="Long" VerticalAlignment="Top" Width="105" />
+            <Button Content="-" Height="72" HorizontalAlignment="Left" Margin="350,451,0,0" Name="Button4" VerticalAlignment="Top" Width="87" />
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

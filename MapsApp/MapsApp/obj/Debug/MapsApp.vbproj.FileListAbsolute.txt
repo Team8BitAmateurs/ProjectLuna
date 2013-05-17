@@ -1,0 +1,16 @@
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\ApplicationIcon.png
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\Background.png
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\MapsApp.dll
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\MapsApp.pdb
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\MapsApp.xml
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\AppManifest.xaml
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\MapsApp.xap
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\obj\Debug\App.g.i.vb
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\obj\Debug\MainPage.g.i.vb
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\obj\Debug\MapsApp.g.resources
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\obj\Debug\MapsApp.dll
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\obj\Debug\MapsApp.xml
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\obj\Debug\MapsApp.pdb
+c:\users\1409756\documents\visual studio 2010\Projects\MapsApp\MapsApp\obj\Debug\XapCacheFile.xml
